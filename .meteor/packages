@@ -9,4 +9,6 @@ bootstrap
 iron:router
 iron:core
 iron:layout
+accounts-password
+accounts-ui-bootstrap-dropdown
 
